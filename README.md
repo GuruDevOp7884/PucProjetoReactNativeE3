@@ -2,7 +2,7 @@
 
 #### `Análise e Desenvolvimento de Sistemas`
 
-#### `Projeto: Desenvolvimento de uma Aplicação Interativa`
+#### `Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio`
 
 #### `EIXO 2`
 
