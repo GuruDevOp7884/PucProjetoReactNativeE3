@@ -6,7 +6,7 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 As personas levantadas durante o processo de entendimento do problema são apresentadas nos quadros a seguir.
 
-|![Persona-1](img/Personas/persona1.png) |
+|![Persona-1](img/Personas/Persona1.png) |
 |------|
 |**Nome:** `Marilene Santos `| 
 |**Idade:** `30 anos `|  
@@ -19,7 +19,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 <br>
 
-|![Persona-2](img/Personas/persona2.png) |
+|![Persona-2](img/Personas/Persona2.png) |
 |------|
 |**Nome:** `Gabriele Silva  `| 
 |**Idade:** `32 anos `|  
@@ -32,7 +32,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 <br>
 
-|![Persona-3](img/Personas/persona3.png) |
+|![Persona-3](img/Personas/Persona3.png) |
 |------|
 |**Nome:** `Newton Albuquerque `| 
 |**Idade:** `63 anos`|  
@@ -45,7 +45,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 <br>
 
-|![Persona-4](img/Personas/persona4.png) |
+|![Persona-4](img/Personas/Persona4.png) |
 |------|
 |**Nome:** `Natalia Marques `| 
 |**Idade:** `28 anos `|  
@@ -58,7 +58,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 <br>
 
-|![Persona-4](img/Personas/persona5.png) |
+|![Persona-4](img/Personas/Persona5.png) |
 |------|
 |**Nome:** `Lúcia Guimarães `| 
 |**Idade:** `52 anos `|  
@@ -71,7 +71,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 <br>
 
-|![Persona-4](img/Personas/persona6.png) |
+|![Persona-4](img/Personas/Persona6.png) |
 |------|
 |**Nome:** `Daniela Andrade `| 
 |**Idade:** `35 anos `|  
@@ -84,7 +84,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 <br>
 
-|![Persona-4](img/Personas/persona7.png) |
+|![Persona-4](img/Personas/Persona7.png) |
 |------|
 |**Nome:** `Lucas Ferrari `| 
 |**Idade:** `26 anos `|  
