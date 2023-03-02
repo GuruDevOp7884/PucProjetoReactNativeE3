@@ -6,7 +6,11 @@
 
 #### `EIXO 2`
 
-O objetivo deste projeto de aplicação é oferecer facilidade para o controle do fluxo de mercadorias do estoque a empresas que comercializem produtos de informática e tecnologia. Isso significa praticidade e rapidez na inserção, remoção e atualização de itens do estoque, assim como celeridade na emissão de notas fiscais no ato da compra do cliente. Dessa forma, pequenos empresários desse segmento podem manejar a entrada e saída de produtos com maior eficiência. Consequentemente, é possível visualizar de forma rápida como estão as finanças do negócio e fazer projeções mais adequadas de lucro e futuros investimentos.
+Fácil seleção de habilidades a serem desenvolvidas pelos alunos, lista de objetos de conhecimento e planos de aula feitos a partir de um banco de dados. Esse é o cenário ideal para professores realizarem planejamentos, quer sejam os de uma simples aula, quer de todo um curso.
+
+Entretanto, não é isso que os docentes têm disponível no mercado de tecnologia de hoje. De forma manual, é comum que os professores tenham que abrir um documento de 900 páginas, a Base Nacional Curricular Comum - BNCC, e procurar as habilidades e objetos do conhecimento a serem ensinados em seu respectivo ano e área que lecionam.
+
+Dessa forma, este trabalho propõe armazenar a BNCC em um banco de dados e disponibilizar planos de aula em uma aplicação mobile voltada para esses profissionais da educação.
 
 ## Integrantes
 
@@ -18,21 +22,11 @@ O objetivo deste projeto de aplicação é oferecer facilidade para o controle d
 
 ## Orientador
 
-* José Wilson da Costa
+* Diego Silva Caldeira Rocha
 
 ## Instruções de utilização
 
-<b>Acesse a aplicação através do link abaixo</b>:
-http://josecosta1984-001-site3.etempurl.com/
 
-<b>Informações para login</b>
-- Entrar como funcionário:
-- <b>Login</b>: funcionario
-- <b>Senha</b>: 123456
-  
-- Entrar como administrador:
-- <b>Login</b>: administrador
-- <b>Senha</b>: 123456
 
 
 
@@ -60,6 +54,6 @@ http://josecosta1984-001-site3.etempurl.com/
 
 # Apresentação
 
-<li><a href="https://user-images.githubusercontent.com/88688861/193700825-a4708b79-0a1b-4c1d-ba7c-d3fde8f261c2.mp4">Video</a></li>
+
 
 
